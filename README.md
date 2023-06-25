@@ -1,4 +1,6 @@
 https://github.com/u6yuvi/dl-package/tree/cc87ad7728926fd6a56f204146794b9d2a79eaec
+dvc video- https://www.youtube.com/watch?v=kLKBcPonMYw
+
 
 # Pytorch Ligtning Model Experimentation Template
 
